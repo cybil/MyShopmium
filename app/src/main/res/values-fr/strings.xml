@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyShopmium</string>
+
+    <string name="action_settings">Paramètres</string>
+    <string name="register">M\'inscrire avec mon email</string>
+    <string name="create_account">Créer mon compte</string>
+    <string name="registration">Inscription</string>
+    <string name="register_sentence">Inscrivez-vous pour profiter de nos offres.</string>
+    <string name="email">Email</string>
+    <string name="title_activity_dashboard">Accueil</string>
+    <string name="disconnection">Déconnexion</string>
+</resources>
